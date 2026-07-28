@@ -1,4 +1,4 @@
-# George's Words — releases
+# George's Words releases
 
 Downloads, the auto-update feed, and the website for **George's Words**,
 a hold-to-dictate app for macOS (Apple Silicon) that keeps everything
